@@ -196,10 +196,10 @@ TOOLS           Git · GitHub · Gradio · APIs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejreddym&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="tejreddym GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejreddym&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="tejreddym Top Languages" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tejreddym&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="tejreddym GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejreddym&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="tejreddym Top Languages" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejreddym&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb" alt="tejreddym Contribution Graph" width="98%" />
+<img src="https://streak-stats.demolab.com?user=tejreddym&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="tejreddym GitHub Streak" width="98%" />
 
 </div>
 
